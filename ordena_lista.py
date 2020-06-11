@@ -1,8 +1,6 @@
 # Essa função retorna uma lista com os items ordenados em ordem crescente e/ou alfabética
 # A função recebe apenas dados de tipo 'int', 'float' ou 'str.
-# A função retorna uma string quando ocorre um erro, se não, reotna-se uma lista, como resultado
-
-# tem uma forma melhor de saber se um dado é de um determinado tipo ou não?????
+# A função retorna uma string quando ocorre um erro, se não, retorna uma lista como resultado
 
 
 def ordenar(valores):
