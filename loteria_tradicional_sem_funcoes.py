@@ -1,5 +1,5 @@
 # Script que simula um sorteio de uma loteria tradiconal. O usuário escolhe 6 números de 1 à 60 e espera acertar algo
-# Decidi não usar funções que facilitem a construção do script
+# Decidi não usar algumas funções que facilitem a construção do script
 
 
 # O módulo 'time' será usada para contar o tempo para o script fazer a quantidade de sorteios desejada
